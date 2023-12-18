@@ -1,7 +1,7 @@
 # Chrome-Extension-youtube-ChatGPT
 
-dependencies:
-python:
-pip install flask
-pip install youtube_transcript_api
-pip install openai
+dependencies:\n
+python:\n
+pip install flask\n
+pip install youtube_transcript_api\n
+pip install openai\n
